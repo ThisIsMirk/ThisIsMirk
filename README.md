@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThisIsMirk (also sometimes referred to by my real name: Mirza Abubacker) 
 - 👀 I’m interested in working with brilliant minds on projects that bring about lasting, positive change to the world. 
-- 🌱 I’m currently learning how to be a master at SQL.  
+- 🌱 I’m currently learning how to be a master at SQL. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mirza-abubacker/) or abubackermirza@gmail.com
 
 <!---
