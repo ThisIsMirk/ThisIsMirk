@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mirza!
-- 👀 I’m interested in working with brilliant minds on projects that bring about lasting, positive change to the world. 
+- 👀 I’m interested in answering some tough to crack business questions using data. 
 - 🌱 I’m currently learning how to be a master at SQL. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mirza-abubacker/) or abubackermirza@gmail.com
 
