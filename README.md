@@ -1,5 +1,5 @@
-👋 Hi, I’m Mirza!
-📫 Reach me here: [LinkedIn](https://www.linkedin.com/in/mirza-abubacker/) or abubackermirza@gmail.com
+Hi, I’m Mirza!
+Reach me here: [LinkedIn](https://www.linkedin.com/in/mirza-abubacker/) or abubackermirza@gmail.com
 
 <!---
 ThisIsMirk/ThisIsMirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
